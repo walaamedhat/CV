@@ -40,11 +40,11 @@ Modules included:
 * Computer Animation & Modeling Software.
 * Game Development.
 
-
-## Experience
-
-
-
 ## Interests
+
+* Video Production.
+* Music Production.
+* Game Development.
+
 
 
